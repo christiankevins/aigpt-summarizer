@@ -15,11 +15,11 @@ const Hero = () =>{
 
             <h1 className="head_text">
                 Summarize Articles with <br/>
-                <span className="orange_gradient">Open AI GPT-4</span>
+                <span className="blue_gradient">SimpliAI</span>
             </h1>
 
             <h2 className="desc">
-                Simplify your reading with ...
+                Simplify your reading with AI, Powered with OpenAI GPT-4
             </h2>
         </header>
 
