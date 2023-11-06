@@ -1,7 +1,8 @@
 # AI GPT Summarizer
 
 SimpliAI is a web application that uses AI to summarize articles and simplify your reading experience. It is powered by OpenAI's GPT-4, which allows you to get concise summaries of lengthy articles.
-https://app.netlify.com/sites/stunning-cannoli-b1d7b8/overview
+To access click link below.
+https://stunning-cannoli-b1d7b8.netlify.app 
 
 
 ## Features
@@ -12,7 +13,7 @@ https://app.netlify.com/sites/stunning-cannoli-b1d7b8/overview
 
 ## How to Use
 
-1. Visit the SimpliAI web application.
+1. Visit the SimpliAI web application in https://stunning-cannoli-b1d7b8.netlify.app 
 2. In the "Paste the article link" input field, paste the URL of the article you want to summarize.
 3. Press Enter or click the "Submit" button to generate the summary.
 4. If the article has been summarized before, you will see the summary. Otherwise, the AI will generate a new summary for you.
